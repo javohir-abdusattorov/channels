@@ -1,5 +1,4 @@
 ## Channels - implementing MPSC channels with instructions from Jon Gjengset
----
 
 #### Link to the video
 Crust of Rust series by Jon Gjengset:
